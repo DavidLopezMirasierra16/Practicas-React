@@ -1,2 +1,2 @@
 # Practicas-React
-Ejercicios con los distintos hooks de React
+Ejercicios para el manejo de lógica en React con sus diferentes hooks y hooks personalizados.
